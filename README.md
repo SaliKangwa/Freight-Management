@@ -33,7 +33,7 @@ This project involved developing a data entry tool to help manage urgent freight
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Input Form: <br/>
+This image provides an overview of the key categories of data captured when processing urgent freight requests and associated finance currency conversions. he data categories include:Requester Details, Logistic Details & Freight Quotations (A minimum of three quotations are recorded to support the adjudication and selection of the freight forwarder.) <br/>
 <img src="https://github.com/SaliKangwa/Freight-Management/blob/main/freight%20form%201.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
@@ -41,7 +41,7 @@ Input Form: <br/>
 
 
 <p align="center">
-Input Form: <br/>
+This image highlights the data captured by the requester, including fields such as Stock Code, Reason for Urgency, and Preferred Freight Method. Capturing this information supports trend analysis — for example, identifying stock items that are frequently requested urgently, which may indicate a need to review and adjust stock Minimum and Maximum Levels. It also helps to analyze common reasons for urgent freight requests, supporting the development of corrective action plans to improve planning and reduce emergency shipments. <br/>
 <img src="https://github.com/SaliKangwa/Freight-Management/blob/main/freight%20form%202.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
@@ -49,7 +49,7 @@ Input Form: <br/>
 
 
 <p align="center">
-Input Form: <br/>
+This image shows the detailed logistics data captured for each freight request. This includes critical information such as Dimensions, Weight, Volume, and Cost per Kilogram. Capturing these details ensures accurate cost calculation and aids in optimizing freight decisions. <br/>
 <img src="https://github.com/SaliKangwa/Freight-Management/blob/main/freight%20form%203.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
