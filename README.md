@@ -33,7 +33,7 @@ This project involved developing a data entry tool to help manage urgent freight
 <h2>Program walk-through:</h2>
 
 <p align="center">
-This image provides an overview of the key categories of data captured when processing urgent freight requests and associated finance currency conversions. he data categories include:Requester Details, Logistic Details & Freight Quotations (A minimum of three quotations are recorded to support the adjudication and selection of the freight forwarder.) <br/>
+This image provides an overview of the key categories of data captured when processing urgent freight requests and associated finance currency conversions. The data categories include:Requester Details, Logistic Details & Freight Quotations (A minimum of three quotations are recorded to support the adjudication and selection of the freight forwarder.) <br/>
 <img src="https://github.com/SaliKangwa/Freight-Management/blob/main/freight%20form%201.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
